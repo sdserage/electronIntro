@@ -1,0 +1,11 @@
+{
+  "name": "electronintro",
+  "version": "1.0.0",
+  "description": "Simple Electron app built from tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott D Serage",
+  "license": "ISC"
+}
